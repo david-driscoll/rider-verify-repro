@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "xunit3-test", "xunit.v3\xunit3-test.csproj", "{84E2E7DF-DEC3-4F94-946D-D5262C576DA6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tunit-test", "TUnit\tunit-test.csproj", "{036F5AFA-B213-436D-8658-E88836430057}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{84E2E7DF-DEC3-4F94-946D-D5262C576DA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84E2E7DF-DEC3-4F94-946D-D5262C576DA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84E2E7DF-DEC3-4F94-946D-D5262C576DA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84E2E7DF-DEC3-4F94-946D-D5262C576DA6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{036F5AFA-B213-436D-8658-E88836430057}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{036F5AFA-B213-436D-8658-E88836430057}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{036F5AFA-B213-436D-8658-E88836430057}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{036F5AFA-B213-436D-8658-E88836430057}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
